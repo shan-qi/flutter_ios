@@ -1,0 +1,11 @@
+//
+//  Debug.xcconfig
+//  flutter_ios
+//
+//  Created by 小琦 on 2020/7/31.
+//  Copyright © 2020 单琦. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Flutter.xcconfig"
